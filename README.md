@@ -32,5 +32,3 @@ The solution reduces manual effort, ensures consistent triage, and improves oper
 
 ---
 
-## License
-MIT License
